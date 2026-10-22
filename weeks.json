@@ -1,12 +1,39 @@
 [
   {
+    "week": "2026-43",
+    "label": "2026年第43週",
+    "published": "2026-10-22",
+    "gazette": "43/2026",
+    "count": 5,
+    "x_count": 2,
+    "path": "weeks/2026-43/",
+    "companies": [
+      "michelin",
+      "pirelli",
+      "goodyear",
+      "continental"
+    ],
+    "counts": {
+      "michelin": 3,
+      "pirelli": 0,
+      "goodyear": 0,
+      "continental": 2
+    }
+  },
+  {
     "week": "2026-42",
     "label": "2026年第42週",
     "published": "2026-10-15",
     "gazette": "42/2026",
     "count": 3,
     "x_count": 0,
-    "path": "weeks/2026-42/"
+    "path": "weeks/2026-42/",
+    "companies": [
+      "michelin"
+    ],
+    "counts": {
+      "michelin": 3
+    }
   },
   {
     "week": "2026-41",
@@ -15,7 +42,13 @@
     "gazette": "41/2026",
     "count": 7,
     "x_count": 1,
-    "path": "weeks/2026-41/"
+    "path": "weeks/2026-41/",
+    "companies": [
+      "michelin"
+    ],
+    "counts": {
+      "michelin": 7
+    }
   },
   {
     "week": "2026-40",
@@ -24,6 +57,12 @@
     "gazette": "40/2026",
     "count": 4,
     "x_count": 2,
-    "path": "weeks/2026-40/"
+    "path": "weeks/2026-40/",
+    "companies": [
+      "michelin"
+    ],
+    "counts": {
+      "michelin": 4
+    }
   }
 ]
