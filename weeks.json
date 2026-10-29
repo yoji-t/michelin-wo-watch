@@ -1,5 +1,26 @@
 [
   {
+    "week": "2026-44",
+    "label": "2026年第44週",
+    "published": "2026-10-29",
+    "gazette": "44/2026",
+    "count": 2,
+    "x_count": 1,
+    "path": "weeks/2026-44/",
+    "companies": [
+      "michelin",
+      "pirelli",
+      "goodyear",
+      "continental"
+    ],
+    "counts": {
+      "michelin": 2,
+      "pirelli": 0,
+      "goodyear": 0,
+      "continental": 0
+    }
+  },
+  {
     "week": "2026-43",
     "label": "2026年第43週",
     "published": "2026-10-22",
